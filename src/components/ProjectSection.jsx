@@ -19,7 +19,7 @@ const projects = [
     image: "/projects/StudySyn.png",
     tags: ["Node.js", "Express.js", "PostgreSQL", "EJS", "Passport.js"],
     demoUrl: "https://youtu.be/j5qZheJeFLk",
-    githubUrl: "YOUR_STUDYSYNC_GITHUB_LINK",
+    githubUrl: "https://github.com/PriyankPhulpagar/StudySync-Learning.git",
   },
 ];
 
