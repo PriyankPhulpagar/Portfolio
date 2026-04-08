@@ -33,7 +33,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="https://drive.google.com/file/d/1zcvCj3Vxfr0dP2SaucGrwmxDEb39ptE0/view?usp=drive_linkhttps://drive.google.com/file/d/1-n5gJEBoQ7UPaWbhacpGOFNmNn9kntfs/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1zcvCj3Vxfr0dP2SaucGrwmxDEb39ptE0/view?usp=drivesdk"
                 className="px-6  py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 {" "}
